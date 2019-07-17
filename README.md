@@ -14,3 +14,5 @@
 
 ## 目录
 [001 - 从免费开源项目到50亿美金上市公司，Elasticsearch解密](https://github.com/01jike/openresearch/blob/master/001.elasticsearch.md)
+
+[002 - 从游戏聊天软件到市值283亿美金上市公司，Slack不同寻常的创业之路](https://github.com/01jike/openresearch/blob/master/002.slack.md)
